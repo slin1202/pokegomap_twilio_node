@@ -1,6 +1,8 @@
 # pokegomap_twilio_node
 A twilio server for sending notifications for your PokeGoMap server
-![alt tag](http://imgur.com/a/DOusB)
+
+![screenshot](http://i.imgur.com/stXxsu5.png)
+
 1. `npm install`
 2. Change your PokeMap url and Twilio info in the code
 3. Change pokemon you want to modify on line 21 and numbers to contact on line 22.
