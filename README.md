@@ -1,5 +1,5 @@
 # pokegomap_twilio_node
-A twilio server for sending notifications for your PokeGoMap server
+A twilio server for sending SMS notifications for your PokeGoMap server
 
 ![screenshot](http://i.imgur.com/stXxsu5.png)
 
